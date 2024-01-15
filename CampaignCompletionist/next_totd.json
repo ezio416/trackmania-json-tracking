@@ -13852,7 +13852,7 @@
         "authorTime": 46012,
         "bronzeTime": 70000,
         "date": "2023-12-12",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/f234d8a7-e855-4506-8c92-0a45ea5802ac",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4b713eeb-50ca-48a4-a82f-2b1f560bfb66",
         "goldTime": 49000,
         "id": "4691a0c4-8fcc-4c49-9474-4b33a1c7a964",
         "nameRaw": "$i$sCoast 1212",
@@ -14204,7 +14204,7 @@
         "authorTime": 42196,
         "bronzeTime": 64000,
         "date": "2024-01-13",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/15fd5cb2-fca8-4a6c-9cf5-2585aa4d89ef",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/d1096696-1e3a-4370-b9ad-4dfbb5cc6f51",
         "goldTime": 45000,
         "id": "1f9d5f2a-7e4f-4a67-99ab-e227237c13dc",
         "nameRaw": "$s$39fEl$ffflie$39f'$fffs adventu$39fre  $fff$ift Ascki",
@@ -14221,5 +14221,16 @@
         "nameRaw": "$o$s$000N$222U$444N$666 $888S$999V$BBBA$DDDR$FFFT",
         "silverTime": 59000,
         "uid": "cPGVBtodXiigpWMPX7AGYTDvW0"
+    },
+    "1293": {
+        "authorTime": 45467,
+        "bronzeTime": 69000,
+        "date": "2024-01-15",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/43511254-88cd-4b0f-a09a-b79b095c417f",
+        "goldTime": 49000,
+        "id": "330b6944-d38a-451a-83ad-2633ba124e5a",
+        "nameRaw": "$s$39CA$fffscend",
+        "silverTime": 55000,
+        "uid": "b4w2ZbckYmunDmWbNE9jbNVf3uk"
     }
 }
