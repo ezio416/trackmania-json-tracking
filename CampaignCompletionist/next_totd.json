@@ -12958,5 +12958,15 @@
         "nameRaw": "$s$6cfStonewashed $fffft $6cfSki Freak",
         "silverTime": 60000,
         "uid": "C2GgffYI0KRBmTS5LEHnWP1D874"
+    },
+    "1296": {
+        "authorTime": 40392,
+        "bronzeTime": 61000,
+        "date": "2024-01-18",
+        "goldTime": 43000,
+        "id": "c72971e9-9dbc-4db6-a0c9-45aa7ba59972",
+        "nameRaw": "$38bCytosine nerf",
+        "silverTime": 49000,
+        "uid": "ZScCTfvc9R7FPCA0OZg2CluWlGg"
     }
 }

@@ -17463,7 +17463,7 @@
         "authorTime": 45855,
         "bronzeTime": 69000,
         "date": "2023-04-24",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/9151ab10-6244-4925-aacb-996f69c48b5e",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/655d23cd-0d7b-45e8-a1e3-689e58452024",
         "goldTime": 49000,
         "id": "d55c8007-da06-4f6d-bf35-ba0d3b42b6d3",
         "nameClean": "ATOMIC ASCENT ft' Nazgor",
@@ -17471,8 +17471,8 @@
         "silverTime": 56000,
         "submitter": "d6706f9f-8e24-402b-a57e-aaf098999c79",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/445372d3-5c9a-45b7-b960-c59a8eaf0e3e.jpg",
-        "timestampIso": "2023-04-17T13:41:43+00:00",
-        "timestampUnix": 1681738903,
+        "timestampIso": "2024-01-18T07:50:36+00:00",
+        "timestampUnix": 1705564236,
         "uid": "THC2KWupo3WpF_aM2KnJiOwW2zb"
     },
     "1028": {
@@ -22030,5 +22030,22 @@
         "timestampIso": "2023-12-30T17:58:24+00:00",
         "timestampUnix": 1703959104,
         "uid": "C2GgffYI0KRBmTS5LEHnWP1D874"
+    },
+    "1296": {
+        "author": "9187ac62-fb90-47e1-bec9-aae2d0cf4310",
+        "authorTime": 40392,
+        "bronzeTime": 61000,
+        "date": "2024-01-18",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/bb7cd325-3223-463f-95ca-862365af7fe4",
+        "goldTime": 43000,
+        "id": "c72971e9-9dbc-4db6-a0c9-45aa7ba59972",
+        "nameClean": "Cytosine nerf",
+        "nameRaw": "$38bCytosine nerf",
+        "silverTime": 49000,
+        "submitter": "9187ac62-fb90-47e1-bec9-aae2d0cf4310",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/0a1685ad-c92d-4319-8117-bc56f62807da.jpg",
+        "timestampIso": "2024-01-08T23:01:38+00:00",
+        "timestampUnix": 1704754898,
+        "uid": "ZScCTfvc9R7FPCA0OZg2CluWlGg"
     }
 }
