@@ -21577,7 +21577,7 @@
         "authorTime": 43993,
         "bronzeTime": 66000,
         "date": "2023-12-22",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/50c3ad9a-88fc-4917-aaa0-1e8282fa266f",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/d286bf23-92ae-46e1-ab07-81b1c5e89fa5",
         "goldTime": 47000,
         "id": "67bd708f-c175-4dc9-86ce-5437cf5323eb",
         "nameClean": "DTC - Muddy  Pipeways [CE]",
@@ -21585,8 +21585,8 @@
         "silverTime": 53000,
         "submitter": "de0da535-2827-4cf7-9d0a-ceaed27f82be",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/23cc67b4-dbb3-4888-86b6-d8e74a74db29.jpg",
-        "timestampIso": "2023-12-15T00:43:31+00:00",
-        "timestampUnix": 1702601011,
+        "timestampIso": "2024-01-19T02:24:59+00:00",
+        "timestampUnix": 1705631099,
         "uid": "33elzXUhnRtLqtRpPLoufNgU7hk"
     },
     "1270": {
@@ -22047,5 +22047,22 @@
         "timestampIso": "2024-01-08T23:01:38+00:00",
         "timestampUnix": 1704754898,
         "uid": "ZScCTfvc9R7FPCA0OZg2CluWlGg"
+    },
+    "1297": {
+        "author": "25614f5f-6553-4d2a-8ea8-cb067a17ba1b",
+        "authorTime": 34979,
+        "bronzeTime": 53000,
+        "date": "2024-01-19",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/16dce02d-e7ad-4bc6-810b-3afd3ad95a96",
+        "goldTime": 38000,
+        "id": "62d90a08-47b5-487e-9178-cb9255efb335",
+        "nameClean": "BLACK & yellow",
+        "nameRaw": "$i$o$s$000BLACK$z $FFF&$ff0 yellow",
+        "silverTime": 42000,
+        "submitter": "25614f5f-6553-4d2a-8ea8-cb067a17ba1b",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/f9345304-4e31-4bce-ae8b-cc59b55d6c09.jpg",
+        "timestampIso": "2024-01-07T21:34:03+00:00",
+        "timestampUnix": 1704663243,
+        "uid": "EqrVLmtAZj_KAOdoPOXerQKHDfg"
     }
 }
