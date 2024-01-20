@@ -12978,5 +12978,15 @@
         "nameRaw": "$i$o$s$000BLACK$z $FFF&$ff0 yellow",
         "silverTime": 42000,
         "uid": "EqrVLmtAZj_KAOdoPOXerQKHDfg"
+    },
+    "1298": {
+        "authorTime": 44853,
+        "bronzeTime": 68000,
+        "date": "2024-01-20",
+        "goldTime": 48000,
+        "id": "4d48651c-e2ef-49e6-a269-38721bd9b017",
+        "nameRaw": "$n$s$o$F63M$D73a$B83n$883i$693a ft Ascki",
+        "silverTime": 54000,
+        "uid": "qzHRPUrTUHCMD0vD5FEtK1oVHV4"
     }
 }
