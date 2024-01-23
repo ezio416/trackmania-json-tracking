@@ -13008,5 +13008,15 @@
         "nameRaw": "$f70 A Space Odyssey 2",
         "silverTime": 50000,
         "uid": "jrgJE8DvxNE1eB7R89mBAviVT3c"
+    },
+    "1301": {
+        "authorTime": 56168,
+        "bronzeTime": 85000,
+        "date": "2024-01-23",
+        "goldTime": 60000,
+        "id": "04adf4f0-1a11-42ee-86cc-aa7ccd7075ae",
+        "nameRaw": "$s$F96Draco's Time $FFFft' Svendsenz & MrOmkes",
+        "silverTime": 68000,
+        "uid": "wRYCp97sf_k5znJQ9gVojK6Trm4"
     }
 }

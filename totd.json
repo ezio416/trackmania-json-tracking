@@ -22115,5 +22115,22 @@
         "timestampIso": "2024-01-19T22:35:11+00:00",
         "timestampUnix": 1705703711,
         "uid": "jrgJE8DvxNE1eB7R89mBAviVT3c"
+    },
+    "1301": {
+        "author": "8ffe695a-8aff-4378-a85f-a503a1abb256",
+        "authorTime": 56168,
+        "bronzeTime": 85000,
+        "date": "2024-01-23",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/01f2b320-0a4f-4b3f-92fe-7dff196556c7",
+        "goldTime": 60000,
+        "id": "04adf4f0-1a11-42ee-86cc-aa7ccd7075ae",
+        "nameClean": "Draco's Time ft' Svendsenz & MrOmkes",
+        "nameRaw": "$s$F96Draco's Time $FFFft' Svendsenz & MrOmkes",
+        "silverTime": 68000,
+        "submitter": "8ffe695a-8aff-4378-a85f-a503a1abb256",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/b96c0b9a-e8c8-429c-a278-08141c2ca020.jpg",
+        "timestampIso": "2024-01-14T00:16:50+00:00",
+        "timestampUnix": 1705191410,
+        "uid": "wRYCp97sf_k5znJQ9gVojK6Trm4"
     }
 }
