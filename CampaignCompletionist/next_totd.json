@@ -13038,5 +13038,15 @@
         "nameRaw": "$s$o$60FS$FFFplit $60FS$FFFecond",
         "silverTime": 56000,
         "uid": "AYHt5miHxYBzE0rAmwZOSWdQiI1"
+    },
+    "1304": {
+        "authorTime": 39645,
+        "bronzeTime": 60000,
+        "date": "2024-01-26",
+        "goldTime": 43000,
+        "id": "d25b6684-98db-4c3a-beb5-9b4c9fcc7152",
+        "nameRaw": "$F00Red$F01 $E01Fury $E02f$D02t Skw$D03e$C03eky2",
+        "silverTime": 48000,
+        "uid": "QW_hnkbcA3_f3Af541MBY7f7y9a"
     }
 }

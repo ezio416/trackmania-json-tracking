@@ -22166,5 +22166,22 @@
         "timestampIso": "2024-01-18T16:54:08+00:00",
         "timestampUnix": 1705596848,
         "uid": "AYHt5miHxYBzE0rAmwZOSWdQiI1"
+    },
+    "1304": {
+        "author": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "authorTime": 39645,
+        "bronzeTime": 60000,
+        "date": "2024-01-26",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/0892393f-f7c8-410b-b48f-90fc6ac68b49",
+        "goldTime": 43000,
+        "id": "d25b6684-98db-4c3a-beb5-9b4c9fcc7152",
+        "nameClean": "Red Fury ft Skweeky2",
+        "nameRaw": "$F00Red$F01 $E01Fury $E02f$D02t Skw$D03e$C03eky2",
+        "silverTime": 48000,
+        "submitter": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/fca79931-1fa8-459b-afa7-a912990e56ef.jpg",
+        "timestampIso": "2024-01-13T03:02:31+00:00",
+        "timestampUnix": 1705114951,
+        "uid": "QW_hnkbcA3_f3Af541MBY7f7y9a"
     }
 }
