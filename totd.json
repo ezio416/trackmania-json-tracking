@@ -19962,7 +19962,7 @@
         "authorTime": 56471,
         "bronzeTime": 85000,
         "date": "2023-09-18",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4b47ee59-c894-49ba-9d5d-398e86a65068",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/b4654209-87a1-4069-b380-98370b67db7f",
         "goldTime": 60000,
         "id": "f85fbd46-ad24-4d6e-b89e-ba45cca635a4",
         "nameClean": "Eozal Ft Choum",
@@ -19970,8 +19970,8 @@
         "silverTime": 68000,
         "submitter": "6f67d602-f64b-4bed-a608-347adcf8cad1",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/c2703a8d-4ad2-4972-a8af-384d8b1a6f26.jpg",
-        "timestampIso": "2023-09-15T20:46:24+00:00",
-        "timestampUnix": 1694810784,
+        "timestampIso": "2024-01-28T11:19:55+00:00",
+        "timestampUnix": 1706440795,
         "uid": "QAT5zOEWq65ZVGRbF6QveBMlIHf"
     },
     "1175": {
@@ -22200,5 +22200,22 @@
         "timestampIso": "2024-01-14T20:07:54+00:00",
         "timestampUnix": 1705262874,
         "uid": "cUknUbjg_cijYFcviYydETlD4J"
+    },
+    "1306": {
+        "author": "d6e02f30-8e15-4290-9e35-7e47ef14168d",
+        "authorTime": 41615,
+        "bronzeTime": 63000,
+        "date": "2024-01-28",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/0dc7a957-3d9c-45a2-ad51-3437e8b0a68c",
+        "goldTime": 45000,
+        "id": "95370a20-e990-42e4-92e8-a1bfae2a820f",
+        "nameClean": "Fever",
+        "nameRaw": "$o$f22F$f55e$f88v$ebbe$eeer",
+        "silverTime": 50000,
+        "submitter": "d6e02f30-8e15-4290-9e35-7e47ef14168d",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/4290cdfe-fbc9-4ecb-a76e-af6416fb7866.jpg",
+        "timestampIso": "2024-01-17T21:35:22+00:00",
+        "timestampUnix": 1705527322,
+        "uid": "rC8EkhVZ5S5qpjaR3olpE9npl7f"
     }
 }
