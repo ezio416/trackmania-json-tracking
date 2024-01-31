@@ -22251,5 +22251,22 @@
         "timestampIso": "2024-01-18T16:26:59+00:00",
         "timestampUnix": 1705595219,
         "uid": "76V1P05TK8lVjS8lIYfeguHe8Xl"
+    },
+    "1309": {
+        "author": "aa32fc89-e0c4-4b73-a33e-026df0807b5c",
+        "authorTime": 44157,
+        "bronzeTime": 70000,
+        "date": "2024-01-31",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/f51e5a3a-6456-443c-9b77-676aadc3df59",
+        "goldTime": 49000,
+        "id": "0fd3f004-a246-4e5d-b861-c4d60c73c316",
+        "nameClean": "Eruption",
+        "nameRaw": "$o$f55E$f53r$f61u$d73p$c96t$bb8i$9dao$8ecn",
+        "silverTime": 57000,
+        "submitter": "aa32fc89-e0c4-4b73-a33e-026df0807b5c",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/1ade1ede-de96-4fb9-af32-2659ecf22248.jpg",
+        "timestampIso": "2024-01-30T20:43:42+00:00",
+        "timestampUnix": 1706647422,
+        "uid": "Eruption_by_TNTree_____TOTD"
     }
 }
