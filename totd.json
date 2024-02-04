@@ -21424,7 +21424,7 @@
         "authorTime": 39105,
         "bronzeTime": 59000,
         "date": "2023-12-13",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/66c75ff1-9f8b-4349-9f89-755ab55e031d",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/3c45877b-5bd6-4993-84f9-bc74f3dc7e66",
         "goldTime": 42000,
         "id": "bef51704-2277-4e54-878b-48377d0e67fd",
         "nameClean": "Talvi",
@@ -21432,8 +21432,8 @@
         "silverTime": 47000,
         "submitter": "3b417a4c-c190-4951-90f4-6454e4475740",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/187cb73f-1a69-4953-9612-0bc4375053d5.jpg",
-        "timestampIso": "2023-12-04T17:32:57+00:00",
-        "timestampUnix": 1701711177,
+        "timestampIso": "2024-02-04T17:19:49+00:00",
+        "timestampUnix": 1707067189,
         "uid": "kfRjL4vpMqkspWzrYxCk8GglF6f"
     },
     "1261": {
@@ -22319,5 +22319,22 @@
         "timestampIso": "2024-01-22T10:53:27+00:00",
         "timestampUnix": 1705920807,
         "uid": "bve31b9LKCUEj4yKAgzPHJNIEuc"
+    },
+    "1313": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 48861,
+        "bronzeTime": 74000,
+        "date": "2024-02-04",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/3537f360-8df4-4db1-9cd8-66a66d6ca110",
+        "goldTime": 52000,
+        "id": "6ca282f8-a47b-4da2-96ef-a1111333473b",
+        "nameClean": "HiddenLagoon ft' Popouette",
+        "nameRaw": "$i$69FHi$5AFdd$4AFen$3BFL$2BFag$1CFoo$0CFn $FFFft' Popouette",
+        "silverTime": 59000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/aebfd59d-0ce1-43c3-b2c1-4f1095afcdc0.jpg",
+        "timestampIso": "2024-01-29T00:19:48+00:00",
+        "timestampUnix": 1706487588,
+        "uid": "QefIfIS3QWV2GH8qyyx0KhdihJ2"
     }
 }
