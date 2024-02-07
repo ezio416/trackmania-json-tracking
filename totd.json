@@ -22359,7 +22359,7 @@
         "authorTime": 45036,
         "bronzeTime": 68000,
         "date": "2024-02-06",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/01101925-4929-40fd-8283-a8a1a81e62a7",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/9d3d92ad-007c-4db8-bffd-00eb683d7a8a",
         "goldTime": 48000,
         "id": "ed033ffd-6301-4e67-92eb-c669a7dfad2f",
         "nameClean": "J\u00f6rmungandr ft' BirdieTM",
@@ -22367,8 +22367,25 @@
         "silverTime": 55000,
         "submitter": "3bb0d130-637d-46a6-9c19-87fe4bda3c52",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/daf159f3-b84b-4b71-8fb3-087484c268e1.jpg",
-        "timestampIso": "2024-01-30T23:02:03+00:00",
-        "timestampUnix": 1706655723,
+        "timestampIso": "2024-02-07T15:46:02+00:00",
+        "timestampUnix": 1707320762,
         "uid": "B_Ms7bUT9eslWThsnWlHhzjBzye"
+    },
+    "1316": {
+        "author": "ace88a5a-43da-417d-a9fa-ac1c8a4fc6b9",
+        "authorTime": 41344,
+        "bronzeTime": 63000,
+        "date": "2024-02-07",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ccaba0ff-f989-4183-87fb-15a7eac6f04a",
+        "goldTime": 44000,
+        "id": "08254537-4dd5-460f-91a2-28fd39b934eb",
+        "nameClean": "Orange-Jade",
+        "nameRaw": "$F30O$F40ra$F50ng$F60e$F60-$F50Ja$F40d$F30e",
+        "silverTime": 50000,
+        "submitter": "ace88a5a-43da-417d-a9fa-ac1c8a4fc6b9",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/92b90fce-8c69-4450-9291-f47c8aa270e8.jpg",
+        "timestampIso": "2023-12-16T18:47:15+00:00",
+        "timestampUnix": 1702752435,
+        "uid": "TuwFI3nzlwmElaoUI2gw46QfrB1"
     }
 }
