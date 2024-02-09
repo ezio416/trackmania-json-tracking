@@ -22404,5 +22404,22 @@
         "timestampIso": "2024-02-08T02:05:14+00:00",
         "timestampUnix": 1707357914,
         "uid": "Yb9pp0MivaTqlnOd5PUJDCQxnEa"
+    },
+    "1318": {
+        "author": "eb46a97e-2057-4544-8557-bc8e9d425d37",
+        "authorTime": 41933,
+        "bronzeTime": 63000,
+        "date": "2024-02-09",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4a6f04b7-19bb-404b-b9a2-2b7fcf6f8e21",
+        "goldTime": 45000,
+        "id": "5456d7df-3db2-4afe-8410-e1d1ffe8a6d1",
+        "nameClean": "Hesperian Ft Skweeky2",
+        "nameRaw": "$0FFH$0EFes$0DFp$1DFe$1CFr$1BFia$1AFn $33FFt Skweeky2",
+        "silverTime": 51000,
+        "submitter": "eb46a97e-2057-4544-8557-bc8e9d425d37",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/d00b5fb4-93b5-4224-a542-d0914d5cf588.jpg",
+        "timestampIso": "2024-01-29T23:35:34+00:00",
+        "timestampUnix": 1706571334,
+        "uid": "QdFfhdwU8mjYuIs5emi9hVz5WQ6"
     }
 }
