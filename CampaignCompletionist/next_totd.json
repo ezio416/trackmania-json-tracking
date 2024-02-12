@@ -13208,5 +13208,15 @@
         "nameRaw": "$i$o$0FFSnow$3FFDr$6FFif$9FFt $o$FFFFt Oclavukixus",
         "silverTime": 59000,
         "uid": "9P2zcBrsJ7zGnQvR3zOPUS3zzGg"
+    },
+    "1321": {
+        "authorTime": 44195,
+        "bronzeTime": 67000,
+        "date": "2024-02-12",
+        "goldTime": 47000,
+        "id": "3ca4b68f-6c63-4c12-aed3-086501fa997c",
+        "nameRaw": "Orin",
+        "silverTime": 54000,
+        "uid": "win4lSyPXStKHYag8hWROZssdE4"
     }
 }
