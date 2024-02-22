@@ -13308,5 +13308,15 @@
         "nameRaw": "$o$t$F93Cinematica$FFF ft Microvert",
         "silverTime": 52000,
         "uid": "DyOwb0mg48FEJFj0CQsBZ5kH4wa"
+    },
+    "1331": {
+        "authorTime": 57000,
+        "bronzeTime": 70000,
+        "date": "2024-02-22",
+        "goldTime": 60000,
+        "id": "257b55af-ed21-425d-be5a-365b916413b9",
+        "nameRaw": "$o$t$0CFCORRUPTION",
+        "silverTime": 65000,
+        "uid": "A5xRYJ6XqOPMKUN_k3WQUdETef2"
     }
 }
