@@ -13388,5 +13388,15 @@
         "nameRaw": "$o$0\uf1e2 $s$FD6DETONATE",
         "silverTime": 55000,
         "uid": "MFfuK9S6eyllymqYY5lAgexRQN9"
+    },
+    "1339": {
+        "authorTime": 58198,
+        "bronzeTime": 88000,
+        "date": "2024-03-01",
+        "goldTime": 61000,
+        "id": "e1be9380-3e6d-450b-9c34-d21289d08159",
+        "nameRaw": "N\u00e4chtlicher Waldweg",
+        "silverTime": 70000,
+        "uid": "ODix_dd5SwgmRjhHIUFsuxDUdsh"
     }
 }

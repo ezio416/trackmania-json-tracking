@@ -22761,5 +22761,22 @@
         "timestampIso": "2024-02-19T20:51:57+00:00",
         "timestampUnix": 1708375917,
         "uid": "MFfuK9S6eyllymqYY5lAgexRQN9"
+    },
+    "1339": {
+        "author": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "authorTime": 58198,
+        "bronzeTime": 88000,
+        "date": "2024-03-01",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/7edcf58a-f649-4c19-8f29-e05da18f8376",
+        "goldTime": 61000,
+        "id": "e1be9380-3e6d-450b-9c34-d21289d08159",
+        "nameClean": "N\u00e4chtlicher Waldweg",
+        "nameRaw": "N\u00e4chtlicher Waldweg",
+        "silverTime": 70000,
+        "submitter": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/bf0fbf1a-8872-474b-ac68-d50b3582ae3e.jpg",
+        "timestampIso": "2024-02-10T15:01:55+00:00",
+        "timestampUnix": 1707577315,
+        "uid": "ODix_dd5SwgmRjhHIUFsuxDUdsh"
     }
 }
