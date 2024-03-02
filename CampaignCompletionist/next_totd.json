@@ -13398,5 +13398,15 @@
         "nameRaw": "N\u00e4chtlicher Waldweg",
         "silverTime": 70000,
         "uid": "ODix_dd5SwgmRjhHIUFsuxDUdsh"
+    },
+    "1340": {
+        "authorTime": 41414,
+        "bronzeTime": 63000,
+        "date": "2024-03-02",
+        "goldTime": 44000,
+        "id": "e7f39fb5-76db-43b4-a7bd-4fdeee2bbf24",
+        "nameRaw": "$i$o$6C9Paper$66CCraft",
+        "silverTime": 50000,
+        "uid": "O5Gd00oURBGz2o8sDp3wO3rD6Y"
     }
 }
