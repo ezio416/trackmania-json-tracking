@@ -22795,5 +22795,22 @@
         "timestampIso": "2024-02-21T16:47:10+00:00",
         "timestampUnix": 1708534030,
         "uid": "O5Gd00oURBGz2o8sDp3wO3rD6Y"
+    },
+    "1341": {
+        "author": "2d7a3d23-e02e-4d0c-bc05-2c17ed4face4",
+        "authorTime": 43444,
+        "bronzeTime": 66000,
+        "date": "2024-03-03",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/70c3e485-79a7-497b-88d7-58be5056e1cd",
+        "goldTime": 47000,
+        "id": "4407426b-05c6-4cab-984a-827745feb7e0",
+        "nameClean": "EXPO EXPO",
+        "nameRaw": "EXPO EXPO",
+        "silverTime": 53000,
+        "submitter": "2d7a3d23-e02e-4d0c-bc05-2c17ed4face4",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a4386be9-863b-4138-ab47-005a157d1ccb.jpg",
+        "timestampIso": "2024-02-21T00:31:30+00:00",
+        "timestampUnix": 1708475490,
+        "uid": "5GtqxqvH_HDd34Z2HnzlulkZwym"
     }
 }
