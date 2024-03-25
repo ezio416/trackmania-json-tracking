@@ -21254,7 +21254,7 @@
         "authorTime": 36913,
         "bronzeTime": 56000,
         "date": "2023-12-03",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1023b066-252a-4655-9e44-bd6a5346fc53",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/826c73f4-c204-48c4-b2b2-0496916d8c27",
         "goldTime": 40000,
         "id": "774fe316-c60f-4845-94c2-d3441361841a",
         "nameClean": "FrostFlare",
@@ -21262,8 +21262,8 @@
         "silverTime": 45000,
         "submitter": "c227ebc8-1b44-4d59-8b5f-8d5022a928c9",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a8d18bf3-d65c-4257-a2a4-06cb0040bf51.jpg",
-        "timestampIso": "2023-11-15T05:37:46+00:00",
-        "timestampUnix": 1700026666,
+        "timestampIso": "2024-03-24T18:51:22+00:00",
+        "timestampUnix": 1711306282,
         "uid": "oOdwwr6s2X2XcwQt_4ngl9lXVl0"
     },
     "1251": {
@@ -23169,5 +23169,22 @@
         "timestampIso": "2024-03-17T00:28:57+00:00",
         "timestampUnix": 1710635337,
         "uid": "VnPB9J2kf5SBuibP3X8k2DPbgPe"
+    },
+    "1363": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 46287,
+        "bronzeTime": 70000,
+        "date": "2024-03-25",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4a790d69-e698-4b11-8b14-84b5bc8e3e6a",
+        "goldTime": 50000,
+        "id": "f76997e2-3ac8-4da4-87f9-cf6fe1e7b7d8",
+        "nameClean": "outlander\u00bb",
+        "nameRaw": "$i$0C9ou$1D9tl$2E9and$3F9er$fff\u00bb",
+        "silverTime": 56000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/56f0166b-b13a-4713-a22e-2bf9cc75849d.jpg",
+        "timestampIso": "2024-03-17T21:42:09+00:00",
+        "timestampUnix": 1710711729,
+        "uid": "j6AcEV_pqO3eMUjwzDY3sfswUk3"
     }
 }
