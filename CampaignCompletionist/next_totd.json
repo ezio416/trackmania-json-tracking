@@ -13708,5 +13708,15 @@
         "nameRaw": "Mystery Route",
         "silverTime": 51000,
         "uid": "zocZ9UhmVi3giq1wJXEjBQQXgxl"
+    },
+    "1371": {
+        "authorTime": 47591,
+        "bronzeTime": 72000,
+        "date": "2024-04-02",
+        "goldTime": 51000,
+        "id": "b9245787-1759-4fe4-8a66-1fa1892e14d4",
+        "nameRaw": "$i$o$FFFVenice$FFF $3FFO$5CFu$89Ft$A6Fr$D3Fu$F0Fn$o$i",
+        "silverTime": 58000,
+        "uid": "ZMTJlfEiBaRNwbWBsxdqvE2vrRm"
     }
 }

@@ -23260,7 +23260,7 @@
         "authorTime": 58558,
         "bronzeTime": 88000,
         "date": "2024-03-30",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ace384d2-97db-40be-a81d-9bef78e24280",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/8926f874-238b-4b78-90f9-f7f96aad47ed",
         "goldTime": 63000,
         "id": "78990f53-6d89-4fb0-9455-4d44f4642c2f",
         "nameClean": "Formula E - Tokyo E-Prix",
@@ -23268,8 +23268,8 @@
         "silverTime": 71000,
         "submitter": "7ad33388-641e-4497-b063-c88e75552645",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/608413d7-0bcb-433c-aa01-ae9c1dc11f6f.jpg",
-        "timestampIso": "2024-03-21T14:44:11+00:00",
-        "timestampUnix": 1711032251,
+        "timestampIso": "2024-04-02T09:30:38+00:00",
+        "timestampUnix": 1712050238,
         "uid": "QmxX5iNQbLTf5wZZuaTwGyOMwhm"
     },
     "1369": {
@@ -23305,5 +23305,22 @@
         "timestampIso": "2024-03-28T00:32:12+00:00",
         "timestampUnix": 1711585932,
         "uid": "zocZ9UhmVi3giq1wJXEjBQQXgxl"
+    },
+    "1371": {
+        "author": "2b3c5767-148b-4fba-9baa-2d5930db2973",
+        "authorTime": 47591,
+        "bronzeTime": 72000,
+        "date": "2024-04-02",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/2760d584-5797-4883-931b-6b147a07a3fb",
+        "goldTime": 51000,
+        "id": "b9245787-1759-4fe4-8a66-1fa1892e14d4",
+        "nameClean": "Venice Outrun",
+        "nameRaw": "$i$o$FFFVenice$FFF $3FFO$5CFu$89Ft$A6Fr$D3Fu$F0Fn$o$i",
+        "silverTime": 58000,
+        "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/82f01272-17f7-4ffa-b7fe-7f7b022b5fe5.jpg",
+        "timestampIso": "2024-03-31T08:33:48+00:00",
+        "timestampUnix": 1711874028,
+        "uid": "ZMTJlfEiBaRNwbWBsxdqvE2vrRm"
     }
 }
