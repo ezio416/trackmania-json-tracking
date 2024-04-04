@@ -18925,7 +18925,7 @@
         "authorTime": 54310,
         "bronzeTime": 70000,
         "date": "2023-07-19",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/14061cb4-bb0b-4c66-8af0-c267c7ba862e",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/d339151f-1e8d-4aa4-b6f9-8c3111d4e1af",
         "goldTime": 56500,
         "id": "cea6a42f-78f0-4356-b8a7-dd019bbe7bdd",
         "nameClean": "Mountain Melancholy",
@@ -18933,8 +18933,8 @@
         "silverTime": 60000,
         "submitter": "e5ed5a9c-fdaf-4c8a-872b-50da739f91a4",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/71167e00-ff69-44a0-8bdd-146ce20ba6a9.jpg",
-        "timestampIso": "2023-07-26T00:02:47+00:00",
-        "timestampUnix": 1690329767,
+        "timestampIso": "2024-04-04T03:57:53+00:00",
+        "timestampUnix": 1712203073,
         "uid": "c8Qzx5hmPd9atuX6Xnb3Ckpb6Xk"
     },
     "1114": {
@@ -21849,7 +21849,7 @@
         "authorTime": 47706,
         "bronzeTime": 64000,
         "date": "2024-01-07",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/46db3e77-b42d-498f-9f0b-3acfdac7ed4d",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/b19a4fc8-dc71-4f89-a4d3-f7b2c25c25f6",
         "goldTime": 50000,
         "id": "755e4398-3147-4da1-8cb9-44a623b1bae7",
         "nameClean": "Mt' Inversion",
@@ -21857,8 +21857,8 @@
         "silverTime": 56000,
         "submitter": "e5ed5a9c-fdaf-4c8a-872b-50da739f91a4",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/01a3ccdd-be58-4d2b-9f15-1bd187246933.jpg",
-        "timestampIso": "2023-12-28T00:17:29+00:00",
-        "timestampUnix": 1703722649,
+        "timestampIso": "2024-04-04T03:44:01+00:00",
+        "timestampUnix": 1712202241,
         "uid": "AbdEN0S24Ht6S4vMyBAwTI_aROl"
     },
     "1286": {
@@ -23339,5 +23339,22 @@
         "timestampIso": "2024-03-23T14:23:24+00:00",
         "timestampUnix": 1711203804,
         "uid": "m0OynrkD1SBRLDgl0Gh78JCq2Fl"
+    },
+    "1373": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 48824,
+        "bronzeTime": 74000,
+        "date": "2024-04-04",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/3cefa221-4bf0-40b0-9924-0c651d3b56b9",
+        "goldTime": 52000,
+        "id": "dc83031a-2506-4161-9d15-212f5e0c3c86",
+        "nameClean": "blue yonder ft' Loso",
+        "nameRaw": "blue yonder ft' Loso",
+        "silverTime": 59000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/77d622b6-6c6f-40dd-9b1e-7a4bf990b8e9.jpg",
+        "timestampIso": "2024-03-24T22:09:08+00:00",
+        "timestampUnix": 1711318148,
+        "uid": "cE2cFOzCyFLjd2Di_6b6_PLI9J3"
     }
 }
