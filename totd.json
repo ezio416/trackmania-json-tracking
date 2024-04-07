@@ -23390,5 +23390,22 @@
         "timestampIso": "2024-03-28T00:40:13+00:00",
         "timestampUnix": 1711586413,
         "uid": "7VByPxzoMNbWEKTuJrxIEB67tP"
+    },
+    "1376": {
+        "author": "de0da535-2827-4cf7-9d0a-ceaed27f82be",
+        "authorTime": 41101,
+        "bronzeTime": 62000,
+        "date": "2024-04-07",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/efa44590-074d-4632-bdc1-8b5ccf354d3e",
+        "goldTime": 44000,
+        "id": "b6777c0f-763a-42a8-8d6d-f7284a1f9502",
+        "nameClean": "DTC - Symphonic Desolation ft Numberplay",
+        "nameRaw": "$s$o$iDTC - Symphonic Desolation $z$ift Numberplay",
+        "silverTime": 50000,
+        "submitter": "de0da535-2827-4cf7-9d0a-ceaed27f82be",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5ff9bd03-f618-4c0a-9f87-a2e1cefea159.jpg",
+        "timestampIso": "2024-03-26T03:11:38+00:00",
+        "timestampUnix": 1711422698,
+        "uid": "217hbDiYJQ3sqhPuzDtqoqR0Wm"
     }
 }
