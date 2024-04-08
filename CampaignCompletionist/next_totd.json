@@ -13768,5 +13768,15 @@
         "nameRaw": "$s$o$iDTC - Symphonic Desolation $z$ift Numberplay",
         "silverTime": 50000,
         "uid": "217hbDiYJQ3sqhPuzDtqoqR0Wm"
+    },
+    "1377": {
+        "authorTime": 46512,
+        "bronzeTime": 70000,
+        "date": "2024-04-08",
+        "goldTime": 50000,
+        "id": "d86eeb50-2517-44e5-bdf9-94c5476f5e9a",
+        "nameRaw": "Forstweg 5",
+        "silverTime": 56000,
+        "uid": "Mr5eiF6e6OErbJcv3xyFb7TfJ93"
     }
 }

@@ -23407,5 +23407,22 @@
         "timestampIso": "2024-03-26T03:11:38+00:00",
         "timestampUnix": 1711422698,
         "uid": "217hbDiYJQ3sqhPuzDtqoqR0Wm"
+    },
+    "1377": {
+        "author": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "authorTime": 46512,
+        "bronzeTime": 70000,
+        "date": "2024-04-08",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ce2dd424-ada9-4d77-bec6-6a613034f2b7",
+        "goldTime": 50000,
+        "id": "d86eeb50-2517-44e5-bdf9-94c5476f5e9a",
+        "nameClean": "Forstweg 5",
+        "nameRaw": "Forstweg 5",
+        "silverTime": 56000,
+        "submitter": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/ba1f68f0-4878-4aa1-bd14-c4a75d9a76a8.jpg",
+        "timestampIso": "2024-03-30T20:42:33+00:00",
+        "timestampUnix": 1711831353,
+        "uid": "Mr5eiF6e6OErbJcv3xyFb7TfJ93"
     }
 }
