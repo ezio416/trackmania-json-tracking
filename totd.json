@@ -23475,5 +23475,22 @@
         "timestampIso": "2024-04-01T11:41:47+00:00",
         "timestampUnix": 1711971707,
         "uid": "hNc0LOdwmHH7UckTcWZtdDaa8ek"
+    },
+    "1381": {
+        "author": "bfcbe019-bc7f-4ee2-a405-a6c0ca7ee7b1",
+        "authorTime": 46955,
+        "bronzeTime": 71000,
+        "date": "2024-04-12",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4d29b5ce-759a-46dc-9329-79ab995a79ad",
+        "goldTime": 50000,
+        "id": "c31e4cd3-978d-466f-ae5d-580e3e1686cc",
+        "nameClean": "Blanco ft' Hiko",
+        "nameRaw": "Blanco ft' Hiko",
+        "silverTime": 57000,
+        "submitter": "bfcbe019-bc7f-4ee2-a405-a6c0ca7ee7b1",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a89efe06-701f-4df2-804e-06f133855a71.jpg",
+        "timestampIso": "2024-04-08T17:50:04+00:00",
+        "timestampUnix": 1712598604,
+        "uid": "KDBodE7344xI__M3dRXmXXN9nFd"
     }
 }
