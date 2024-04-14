@@ -15729,7 +15729,7 @@
         "authorTime": 45130,
         "bronzeTime": 68000,
         "date": "2023-01-12",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a3414698-ee38-4f6d-9e68-ea0b1579dda5",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/badd85a9-9159-42d8-b708-be1408a9eca3",
         "goldTime": 48000,
         "id": "32b29a80-2e3b-4b02-90c1-5151af6ad3c1",
         "nameClean": "Genial Gardens",
@@ -15737,8 +15737,8 @@
         "silverTime": 55000,
         "submitter": "433b5c82-6fb4-4dc2-b686-5a9534189021",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/c7bf5ee9-11af-49ad-9144-3d0681c1dc59.jpg",
-        "timestampIso": "2023-06-10T07:38:41+00:00",
-        "timestampUnix": 1686382721,
+        "timestampIso": "2024-04-13T18:41:54+00:00",
+        "timestampUnix": 1713033714,
         "uid": "IZ2ZySz8fV1w6PQbc1P9AXTC1da"
     },
     "0926": {
@@ -23509,5 +23509,22 @@
         "timestampIso": "2024-04-02T01:10:44+00:00",
         "timestampUnix": 1712020244,
         "uid": "Qy345pWg821zDyIg3DvZdD54_yj"
+    },
+    "1383": {
+        "author": "97ca9c5a-2d14-4e2f-9a08-3c2636c276c5",
+        "authorTime": 45774,
+        "bronzeTime": 69990,
+        "date": "2024-04-14",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/e914b28d-a614-4c92-a4dc-c23bd7c1ce53",
+        "goldTime": 49000,
+        "id": "c1e68c14-34f9-4581-b386-56bd99673ded",
+        "nameClean": "Nullentropy",
+        "nameRaw": "$i$s$F93N$FA3u$FB3l$FD3l$FE3e$FF3n$FF3t$FF5r$FF8o$FFAp$FFCy",
+        "silverTime": 55000,
+        "submitter": "97ca9c5a-2d14-4e2f-9a08-3c2636c276c5",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/afa23833-d1a2-48a7-8c87-db7ab8f84819.jpg",
+        "timestampIso": "2024-04-01T20:19:30+00:00",
+        "timestampUnix": 1712002770,
+        "uid": "VyafRhXyjhrkbAiKfewVEK4XPJ9"
     }
 }
