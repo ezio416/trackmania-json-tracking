@@ -23560,5 +23560,22 @@
         "timestampIso": "2024-04-16T04:58:28+00:00",
         "timestampUnix": 1713243508,
         "uid": "UVZnVIIPbclDOJCJt4GXZhTSP9l"
+    },
+    "1386": {
+        "author": "dbe0408e-3943-4619-82b2-d364596d7795",
+        "authorTime": 50557,
+        "bronzeTime": 76000,
+        "date": "2024-04-17",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/9ee75490-8fa2-42a7-b5d3-ecc522545698",
+        "goldTime": 54000,
+        "id": "908886d5-62e9-4803-b250-f217ef6d09ab",
+        "nameClean": "Cave Dwellers",
+        "nameRaw": "$o$F90Cave $F00Dwellers",
+        "silverTime": 61000,
+        "submitter": "dbe0408e-3943-4619-82b2-d364596d7795",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/4aad00ff-a3fa-4307-aa21-975d071217af.jpg",
+        "timestampIso": "2024-04-10T23:16:29+00:00",
+        "timestampUnix": 1712790989,
+        "uid": "XMcrcV5mpYJZpviVa0SAuiSqqj0"
     }
 }
