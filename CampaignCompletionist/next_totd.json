@@ -13868,5 +13868,15 @@
         "nameRaw": "$o$F90Cave $F00Dwellers",
         "silverTime": 61000,
         "uid": "XMcrcV5mpYJZpviVa0SAuiSqqj0"
+    },
+    "1387": {
+        "authorTime": 44498,
+        "bronzeTime": 67000,
+        "date": "2024-04-18",
+        "goldTime": 48000,
+        "id": "d912dd63-80be-47d5-935d-3f8f50c4cfac",
+        "nameRaw": "$o$s$i$09FSini",
+        "silverTime": 54000,
+        "uid": "5WN4_oMtc4aJjQREN4O0ysUzuma"
     }
 }
