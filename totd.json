@@ -23594,5 +23594,22 @@
         "timestampIso": "2024-04-09T16:21:51+00:00",
         "timestampUnix": 1712679711,
         "uid": "5WN4_oMtc4aJjQREN4O0ysUzuma"
+    },
+    "1388": {
+        "author": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "authorTime": 44392,
+        "bronzeTime": 67000,
+        "date": "2024-04-19",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1682133a-c65a-4c3f-be63-283582050327",
+        "goldTime": 48000,
+        "id": "ac854054-1d58-44d6-82fa-0b9253777707",
+        "nameClean": "Electropolis",
+        "nameRaw": "$F6FE$E7Fl$D8Fec$C9Ft$BAFr$ABFo$9CFp$8DFol$7EFi$6FFs",
+        "silverTime": 54000,
+        "submitter": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/8c7acf93-7b4b-45be-a599-1ac59d3f28ec.jpg",
+        "timestampIso": "2024-04-06T23:14:06+00:00",
+        "timestampUnix": 1712445246,
+        "uid": "8e7QRfq2_il3j_1iowHimBmvmqg"
     }
 }
