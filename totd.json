@@ -23566,7 +23566,7 @@
         "authorTime": 50557,
         "bronzeTime": 76000,
         "date": "2024-04-17",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/9ee75490-8fa2-42a7-b5d3-ecc522545698",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1e4c7587-1f70-4bde-9b6c-4019cb90e6c2",
         "goldTime": 54000,
         "id": "908886d5-62e9-4803-b250-f217ef6d09ab",
         "nameClean": "Cave Dwellers",
@@ -23574,8 +23574,8 @@
         "silverTime": 61000,
         "submitter": "dbe0408e-3943-4619-82b2-d364596d7795",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/4aad00ff-a3fa-4307-aa21-975d071217af.jpg",
-        "timestampIso": "2024-04-10T23:16:29+00:00",
-        "timestampUnix": 1712790989,
+        "timestampIso": "2024-04-21T02:14:03+00:00",
+        "timestampUnix": 1713665643,
         "uid": "XMcrcV5mpYJZpviVa0SAuiSqqj0"
     },
     "1387": {
@@ -23628,5 +23628,22 @@
         "timestampIso": "2024-04-03T18:54:29+00:00",
         "timestampUnix": 1712170469,
         "uid": "aCPU7gHqoAFqEHh8RrZ4itA6iKa"
+    },
+    "1390": {
+        "author": "d6386196-c974-415c-b17c-14ce90e41eca",
+        "authorTime": 43287,
+        "bronzeTime": 65000,
+        "date": "2024-04-21",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/378f439a-020e-4a57-9ed4-5a07749dc0ca",
+        "goldTime": 46000,
+        "id": "6cd31720-4687-4408-b592-3c8763dc9f66",
+        "nameClean": "Starscape",
+        "nameRaw": "$s$000S$006t$009a$00cr$00fs$03fcape",
+        "silverTime": 52000,
+        "submitter": "d6386196-c974-415c-b17c-14ce90e41eca",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/78e2d838-1e32-4b2f-b583-edf83d207f43.jpg",
+        "timestampIso": "2024-03-29T17:04:41+00:00",
+        "timestampUnix": 1711731881,
+        "uid": "MBg3GI8i8Kzwma66dmlF9ESowQ4"
     }
 }
