@@ -23662,5 +23662,22 @@
         "timestampIso": "2024-04-17T16:32:51+00:00",
         "timestampUnix": 1713371571,
         "uid": "eOMocBvJUhn_IZGiao2C_yVL7dm"
+    },
+    "1392": {
+        "author": "d2429c81-66a6-42e5-b515-105e1e357425",
+        "authorTime": 50361,
+        "bronzeTime": 76000,
+        "date": "2024-04-23",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1af951ba-9ee3-41b6-b1ac-f29bc062539e",
+        "goldTime": 54000,
+        "id": "35712191-7320-4dba-a2d4-6d79a13350a5",
+        "nameClean": "Samsara",
+        "nameRaw": "$F90S$FA0a$FB0m$FC0s$FD0a$FE0r$FF0a",
+        "silverTime": 61000,
+        "submitter": "d2429c81-66a6-42e5-b515-105e1e357425",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/44eb5cf2-a50d-48cf-83a5-beece4b8c4a6.jpg",
+        "timestampIso": "2024-04-12T17:44:59+00:00",
+        "timestampUnix": 1712943899,
+        "uid": "Ygo7a_AI1sMlqLQo4ce2yYCPFL5"
     }
 }
