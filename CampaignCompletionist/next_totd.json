@@ -13968,5 +13968,15 @@
         "nameRaw": "$o$f00Rollercoaster $cc2Beach",
         "silverTime": 62000,
         "uid": "SosNYWSifhzF8ZPXi9Vy_rq5VGd"
+    },
+    "1397": {
+        "authorTime": 41985,
+        "bronzeTime": 63000,
+        "date": "2024-04-28",
+        "goldTime": 45000,
+        "id": "0fc185a4-7767-40a4-8229-f74c777627b5",
+        "nameRaw": "$i$s$f63k$09fry$fffpton$09fit$f63e",
+        "silverTime": 51000,
+        "uid": "It_J5Od26J9LaHnrrmTv7kM0G20"
     }
 }
