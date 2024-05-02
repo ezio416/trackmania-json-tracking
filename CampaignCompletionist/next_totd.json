@@ -14008,5 +14008,15 @@
         "nameRaw": "$60C$sFloor$FFFOfThe$60CDay",
         "silverTime": 43000,
         "uid": "XkNEDQ6vfGHnKiPTBau02KzzVd4"
+    },
+    "1401": {
+        "authorTime": 48388,
+        "bronzeTime": 73000,
+        "date": "2024-05-02",
+        "goldTime": 52000,
+        "id": "259d15e6-38ab-4f25-bcdc-ffed67e9e94e",
+        "nameRaw": "$o$n$60Fa$41En$22Do$03Cm$03Ca$03Bl$039y",
+        "silverTime": 59000,
+        "uid": "rptH2ddUQYN_Mo5mLvtmKyluBjk"
     }
 }
