@@ -14068,5 +14068,15 @@
         "nameRaw": "$o$s$F00G$F01P $F02Ky$F03\u014dt$F03o$F04 2$F0504$F069",
         "silverTime": 59000,
         "uid": "xDZroaLvLQLW5nCKGQAOmvQ_220"
+    },
+    "1407": {
+        "authorTime": 49764,
+        "bronzeTime": 75000,
+        "date": "2024-05-08",
+        "goldTime": 53000,
+        "id": "3f990baf-6231-44f7-88ba-08acd3841ffd",
+        "nameRaw": "Old School $FF02020",
+        "silverTime": 60000,
+        "uid": "2lr_Uhz012JtaEjo62iwxtmyad2"
     }
 }
