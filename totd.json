@@ -23787,7 +23787,7 @@
         "authorTime": 44367,
         "bronzeTime": 67000,
         "date": "2024-04-30",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/f336d2c8-0284-4794-aff4-5a42e3370737",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/7dc13c12-68b8-46cf-962c-b048c9b25c3c",
         "goldTime": 48000,
         "id": "8383ceb9-dfb8-4b80-9c3a-76b1efdf5f9d",
         "nameClean": "Radioactive Ruinzzz",
@@ -23795,8 +23795,8 @@
         "silverTime": 54000,
         "submitter": "3c7699e6-3e08-406a-90fa-9affe0d46a8c",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/9feee927-853d-478b-a8db-6609873b641e.jpg",
-        "timestampIso": "2024-04-21T21:11:55+00:00",
-        "timestampUnix": 1713733915,
+        "timestampIso": "2024-05-10T15:30:23+00:00",
+        "timestampUnix": 1715355023,
         "uid": "lnzRsDfYVKf3Ewg9Z_BOfeaJL2b"
     },
     "1400": {
@@ -23951,5 +23951,22 @@
         "timestampIso": "2024-05-03T14:05:15+00:00",
         "timestampUnix": 1714745115,
         "uid": "4OEpEBWyeZKbgvaycNXGRCu33Ud"
+    },
+    "1409": {
+        "author": "f4dc1af7-3bce-402f-aeae-44aae841b0c6",
+        "authorTime": 44149,
+        "bronzeTime": 67000,
+        "date": "2024-05-10",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/e5e10e9c-9bfe-45e0-ad08-9a324a6749f8",
+        "goldTime": 47000,
+        "id": "d23d117a-65a1-466d-bd73-bb9fdd9a92f3",
+        "nameClean": "[Mrotw Ultimate] Explore",
+        "nameRaw": "[Mrotw Ultimate] Explore",
+        "silverTime": 53000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/0218207e-958d-4aba-8f5c-1992ee6fae73.jpg",
+        "timestampIso": "2024-05-02T08:34:29+00:00",
+        "timestampUnix": 1714638869,
+        "uid": "PYDqGc9GDczNjMSCRuXBrNwb9h7"
     }
 }
