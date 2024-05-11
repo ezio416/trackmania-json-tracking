@@ -23968,5 +23968,22 @@
         "timestampIso": "2024-05-02T08:34:29+00:00",
         "timestampUnix": 1714638869,
         "uid": "PYDqGc9GDczNjMSCRuXBrNwb9h7"
+    },
+    "1410": {
+        "author": "73eba009-a074-4439-916f-d25d7fa7bc1c",
+        "authorTime": 45822,
+        "bronzeTime": 69000,
+        "date": "2024-05-11",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/2c6844eb-14b2-4ec3-a862-7febca647017",
+        "goldTime": 49000,
+        "id": "951f9cd9-4eab-4cf6-8ff4-81701622fe6d",
+        "nameClean": "Formula E - Berlin E-Prix",
+        "nameRaw": "$05fFormula E $fff- $c53Berlin $138E-Prix",
+        "silverTime": 55000,
+        "submitter": "73eba009-a074-4439-916f-d25d7fa7bc1c",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/6ebea74e-1ebb-4d11-9085-931fabedd81e.jpg",
+        "timestampIso": "2024-05-07T17:10:39+00:00",
+        "timestampUnix": 1715101839,
+        "uid": "jauQi8urh5Hh6WrfocLPl3SlbXc"
     }
 }
