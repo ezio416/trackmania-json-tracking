@@ -23985,5 +23985,22 @@
         "timestampIso": "2024-05-07T17:10:39+00:00",
         "timestampUnix": 1715101839,
         "uid": "jauQi8urh5Hh6WrfocLPl3SlbXc"
+    },
+    "1411": {
+        "author": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "authorTime": 45531,
+        "bronzeTime": 69000,
+        "date": "2024-05-12",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/58639514-acca-4da2-923c-3a9615c81a66",
+        "goldTime": 49000,
+        "id": "de8e4353-8b99-4842-b27d-682fe24ed1c8",
+        "nameClean": "Tantrum",
+        "nameRaw": "$o$00CT$01Ca$02Cn$03Ct$03Cr$03Bu$039m",
+        "silverTime": 55000,
+        "submitter": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a35b9709-f1c2-45c6-9f9d-e81950762a4c.jpg",
+        "timestampIso": "2024-04-29T11:47:26+00:00",
+        "timestampUnix": 1714391246,
+        "uid": "T4_3xWyE_ZhIJOYPKqM4g9qnKh5"
     }
 }

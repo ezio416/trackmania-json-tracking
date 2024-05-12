@@ -14108,5 +14108,15 @@
         "nameRaw": "$05fFormula E $fff- $c53Berlin $138E-Prix",
         "silverTime": 55000,
         "uid": "jauQi8urh5Hh6WrfocLPl3SlbXc"
+    },
+    "1411": {
+        "authorTime": 45531,
+        "bronzeTime": 69000,
+        "date": "2024-05-12",
+        "goldTime": 49000,
+        "id": "de8e4353-8b99-4842-b27d-682fe24ed1c8",
+        "nameRaw": "$o$00CT$01Ca$02Cn$03Ct$03Cr$03Bu$039m",
+        "silverTime": 55000,
+        "uid": "T4_3xWyE_ZhIJOYPKqM4g9qnKh5"
     }
 }
