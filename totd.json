@@ -24002,5 +24002,22 @@
         "timestampIso": "2024-04-29T11:47:26+00:00",
         "timestampUnix": 1714391246,
         "uid": "T4_3xWyE_ZhIJOYPKqM4g9qnKh5"
+    },
+    "1412": {
+        "author": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "authorTime": 54089,
+        "bronzeTime": 82000,
+        "date": "2024-05-13",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/86a4d69e-57bd-4c2a-8ba4-d8ea2e442cec",
+        "goldTime": 58000,
+        "id": "10ddd99e-b31e-4b3a-b9d0-aebbcbeb33b4",
+        "nameClean": "Lapislazuli",
+        "nameRaw": "$o$i$00fLapislazuli",
+        "silverTime": 65000,
+        "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/dc6bf67c-9b15-4683-b865-e01de25b0d23.jpg",
+        "timestampIso": "2024-04-28T21:08:57+00:00",
+        "timestampUnix": 1714338537,
+        "uid": "VeJseBx90e9F2aPEesCf1qQaxoi"
     }
 }

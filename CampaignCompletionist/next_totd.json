@@ -14118,5 +14118,15 @@
         "nameRaw": "$o$00CT$01Ca$02Cn$03Ct$03Cr$03Bu$039m",
         "silverTime": 55000,
         "uid": "T4_3xWyE_ZhIJOYPKqM4g9qnKh5"
+    },
+    "1412": {
+        "authorTime": 54089,
+        "bronzeTime": 82000,
+        "date": "2024-05-13",
+        "goldTime": 58000,
+        "id": "10ddd99e-b31e-4b3a-b9d0-aebbcbeb33b4",
+        "nameRaw": "$o$i$00fLapislazuli",
+        "silverTime": 65000,
+        "uid": "VeJseBx90e9F2aPEesCf1qQaxoi"
     }
 }
