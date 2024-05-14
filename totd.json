@@ -24019,5 +24019,22 @@
         "timestampIso": "2024-04-28T21:08:57+00:00",
         "timestampUnix": 1714338537,
         "uid": "VeJseBx90e9F2aPEesCf1qQaxoi"
+    },
+    "1413": {
+        "author": "a2a11f7a-4475-436f-893c-4386a6213a7d",
+        "authorTime": 44211,
+        "bronzeTime": 67000,
+        "date": "2024-05-14",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4ba6ab1e-94d0-464b-8385-e106d43986bf",
+        "goldTime": 47000,
+        "id": "ea1348de-7a2e-4ede-b593-e08cf6d785d1",
+        "nameClean": "Polar Plaza ft Moonstruck",
+        "nameRaw": "$o$ffPolar $fffPlaza$z$o$b ft$fff Moonstruck",
+        "silverTime": 54000,
+        "submitter": "a2a11f7a-4475-436f-893c-4386a6213a7d",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/b9cc9b27-e2d6-490b-9e4e-daac9be0e336.jpg",
+        "timestampIso": "2024-04-26T18:33:40+00:00",
+        "timestampUnix": 1714156420,
+        "uid": "qY77kR8_O6NT32RZuRwb6G7sV_0"
     }
 }
