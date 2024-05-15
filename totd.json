@@ -24036,5 +24036,22 @@
         "timestampIso": "2024-04-26T18:33:40+00:00",
         "timestampUnix": 1714156420,
         "uid": "qY77kR8_O6NT32RZuRwb6G7sV_0"
+    },
+    "1414": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 48647,
+        "bronzeTime": 73000,
+        "date": "2024-05-15",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/22ad84e6-6ddd-4257-8966-bf418dbb4a2b",
+        "goldTime": 52000,
+        "id": "7774c94f-6ce4-49ac-88fb-fcec12fbb565",
+        "nameClean": "Printemps",
+        "nameRaw": "$i$C9FPr$D9Fin$E9Ftem$F9Fps",
+        "silverTime": 59000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/b499982a-6115-4c76-97a2-09edaa638727.jpg",
+        "timestampIso": "2024-04-29T17:47:42+00:00",
+        "timestampUnix": 1714412862,
+        "uid": "JsqpbwKWpWRsQ6dp3J_amsZ1dHm"
     }
 }
