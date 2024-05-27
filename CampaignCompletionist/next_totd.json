@@ -14258,5 +14258,15 @@
         "nameRaw": "$o$FF0Banana $DDDMeltdown",
         "silverTime": 70000,
         "uid": "wNqx0QzHK7vwHWYfo_vzp6ODwKb"
+    },
+    "1426": {
+        "authorTime": 45751,
+        "bronzeTime": 69000,
+        "date": "2024-05-27",
+        "goldTime": 49000,
+        "id": "69f1c27f-15df-4e5d-ba65-e19f6110832b",
+        "nameRaw": "$0FFTropical $FF0Sky",
+        "silverTime": 55000,
+        "uid": "ADPtJ7x0LSFg2piYJAQrNfHy5o4"
     }
 }
